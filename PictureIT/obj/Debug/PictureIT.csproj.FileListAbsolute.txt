@@ -1,0 +1,10 @@
+C:\Users\New User\source\repos\PictureIT\obj\Debug\PictureIT.csprojAssemblyReference.cache
+C:\Users\New User\source\repos\PictureIT\obj\Debug\PictureIT.Form1.resources
+C:\Users\New User\source\repos\PictureIT\obj\Debug\PictureIT.Properties.Resources.resources
+C:\Users\New User\source\repos\PictureIT\obj\Debug\PictureIT.csproj.GenerateResource.cache
+C:\Users\New User\source\repos\PictureIT\obj\Debug\PictureIT.csproj.CoreCompileInputs.cache
+C:\Users\New User\source\repos\PictureIT\bin\Debug\PictureIT.exe.config
+C:\Users\New User\source\repos\PictureIT\bin\Debug\PictureIT.exe
+C:\Users\New User\source\repos\PictureIT\bin\Debug\PictureIT.pdb
+C:\Users\New User\source\repos\PictureIT\obj\Debug\PictureIT.exe
+C:\Users\New User\source\repos\PictureIT\obj\Debug\PictureIT.pdb
